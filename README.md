@@ -14,26 +14,64 @@ sudo apt-get install python2
 
 sudo apt-get install python3
 
-pip install time
+python3 -m pip install time
 
+python3 -m pip install os
 
-pip install os
+python3 -m pip install phonenumbers
 
-pip install phonenumbers
+python3 -m pip install pyfiglet
 
-pip install pyfiglet
+python3 -m pip install Figlet
 
-pip install datetime
+python3 -m pip install datetime
 
-pip install tqdm
+python3 -m pip install tqdm
 
-pip install winsound
+pip install winsound (para quien lo vaya a utilizar en windows, ya que en linux esa libreria no existe)
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ..................................................................................................................................................................................
+
+-____________________________________________-
+USO:
+
+esta herramienta corre en python3 unicamente, y si no teneis alguna libreria de python instalada, de ninguna manera os funcionara, asique tengan cuidado
+
+>> git clone https://www.github.com/D14blo-Gr1s/osint-telefonico.git
+
+>> cd osint-telefonico
+
+>> chmod +x *
+
+>> sudo apt-get install python3
+
+>> python3 -m pip install phonenumbers
+
+>> python3 -m pip install os
+
+>> python3 -m pip install time
+
+>> python3 -m pip install datetime
+
+>> python3 -m pip install tqdm
+
+>> python3 -m pip install Figlet
+
+>> python3 osint_telefonico_LINUX.py
+
+o alomejor utilizas windows
+
+>> python3 osint_telefonico_para_windows.py
+
+-____________________________________________-
+
+PLATAFORMAS COMPATIBLES
+-____________________________________________-
+
 
 Esta herramienta se puede ejecutar en las diferentes plataformas probadas:
 

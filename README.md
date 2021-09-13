@@ -111,4 +111,4 @@ si pones numeros de telefono de los siguientes paises, mi herramienta le dara a 
 
 +34 (aveces (España))
 
-y otros muchos mas, solo teneis que usar la logica, creedme, si apollais mucho mi cuenta de instagram (es en la que mas activo estoy) si me dais mucho apollo en la cuenta de instagra, QUIZAS, me animo a subir repositorios muchisimo mas brutales de cosas como 4t4que3s de fu3rz.4 brut4 o enven4miento de DNS, de mas cosas variadas, solamente teneis que mostrar apollo xd 
+y otros muchos mas, solo teneis que usar la logica, creedme, si apollais mucho mi cuenta de instagram (es en la que mas activo estoy) si me dais mucho apollo en la cuenta de instagram, QUIZAS, me animo a subir repositorios muchisimo mas brutales de cosas como 4t4que3s de fu3rz.4 brut4 o enven4miento de DNS, de mas cosas variadas, solamente teneis que mostrar apollo xd 

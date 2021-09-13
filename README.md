@@ -1,5 +1,5 @@
 # osint-telefonico
-Es un sencillo y elegante escrito que consigue información de números de teléfono
+Es un sencillo y elegante script que consigue información de números de teléfono
 
 
 Esto es un repositorio educativo y experimental creado por D14BL0 GR1S, esta herramienta esta programada en python totalmente, no me hago responsable del mal uso que le podais dar y tampoco de los cambios que podais hacer en el codigo, las librerias necesarias para esta herramienta son: (comandos a ejecutar)

@@ -102,7 +102,9 @@ while True:
 
     n = False
 
-    Q = str(input("numero de telefono para doxxear RECUERDA ESCRIBIR EL NUMERO SIN ESPACIOS, CON EL + Y CON EL CODIGO DEL PAIS, POR EJEMPLO +34111111111: "))
+    Q = str(input("""numero de telefono para doxxear RECUERDA ESCRIBIR EL NUMERO SIN ESPACIOS, CON EL + Y CON EL CODIGO DEL PAIS, POR EJEMPLO +34111111111
+    
+    [numero del objetivo]>>> """))
 
     numeroh = phonenumbers.parse(Q, "es")
 

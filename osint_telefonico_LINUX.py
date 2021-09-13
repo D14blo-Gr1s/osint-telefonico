@@ -71,7 +71,7 @@ while True:
     os.system("clear")
     
     letras = Figlet(font='standard')
-    nombre = Figlet (font='poison')
+    nombre = Figlet (font='standard')
     print("")
     print(nombre.renderText("D3M0N1O GR1S"))
     print("")
@@ -153,7 +153,7 @@ while True:
     os.system("clear")
 
     letras = Figlet(font='standard')
-    nombre = Figlet (font='poison')
+    nombre = Figlet (font='standard)
     print("")
     print(nombre.renderText("D3M0N1O GR1S"))
     print("")
@@ -259,7 +259,7 @@ while True:
         os.system("clear")
 
         letras = Figlet(font='standard')
-        nombre = Figlet (font='poison')
+        nombre = Figlet (font='standard')
         print("")
         print(nombre.renderText("D3M0N1O GR1S"))
         print("")

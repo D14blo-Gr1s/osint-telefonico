@@ -37,7 +37,11 @@ pip install winsound (para quien lo vaya a utilizar en windows, ya que en linux 
 ..................................................................................................................................................................................
 
 -____________________________________________-
+
 USO:
+
+-____________________________________________-
+
 
 esta herramienta corre en python3 unicamente, y si no teneis alguna libreria de python instalada, de ninguna manera os funcionara, asique tengan cuidado
 

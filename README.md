@@ -85,3 +85,30 @@ Termux ☑
 Kali linux ☑
 
 windows 7 (tendras que instalar pip y python evidentemente, solamente lo he probado en windows 7, no se si funcionara en otras actualizaciones) ☑
+
+
+
+
+
+IMPORTANTE
+
+
+
+si pones numeros de telefono de los siguientes paises, mi herramienta le dara a usted la ciudad de la persona:
+
+
++54 (Argentina)
+
++52 (Mexico)
+
++1 (no importa si es de Puerto Rico o EEUU, te dara la ubicacion muy precisa)
+
++44 (Reino unido)
+
++91 (India)
+
++62 (Indonesia)
+
++34 (aveces (España))
+
+y otros muchos mas, solo teneis que usar la logica, creedme, si apollais mucho mi cuenta de instagram (es en la que mas activo estoy) si me dais mucho apollo en la cuenta de instagra, QUIZAS, me animo a subir repositorios muchisimo mas brutales de cosas como 4t4que3s de fu3rz.4 brut4 o enven4miento de DNS, de mas cosas variadas, solamente teneis que mostrar apollo xd 

@@ -105,6 +105,10 @@ while True:
     Q = str(input("""numero de telefono para doxxear RECUERDA ESCRIBIR EL NUMERO SIN ESPACIOS, CON EL + Y CON EL CODIGO DEL PAIS, POR EJEMPLO +34111111111
     
     [numero del objetivo]>>> """))
+    
+    print("")
+    
+    nombre_victima = str(input("[nombre del objetivo]>>> "))
 
     numeroh = phonenumbers.parse(Q, "es")
 
@@ -234,6 +238,8 @@ while True:
         
         time.sleep(2)
         file = open(nombre_arch + ".txt", "w")
+        file.write("-------------------------------- \n")
+        file.write("[" + nombre_victima + "] \n")
         file.write("-------------------------------- \n")
         file.write("numero objetivo: " + Q + "\n")
         file.write("isp: " + respuesta_carrier + "\n")

@@ -53,17 +53,16 @@ esta herramienta corre en python3 unicamente, y si no teneis alguna libreria de 
 
 >> sudo apt-get install python3
 
->> python3 -m pip install phonenumbers
+>>python3 ejecutame_en_python3_instalacion_de_requerimientos_importantes.py
 
->> python3 -m pip install os
 
->> python3 -m pip install time
 
->> python3 -m pip install datetime
 
->> python3 -m pip install tqdm
+ahora se te habran instalado todas las librerias necesarias para poder utilizar la herramienta, ahora si, podemos ejecutarla
 
->> python3 -m pip install Figlet
+
+
+
 
 >> python3 osint_telefonico_LINUX.py
 
